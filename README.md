@@ -1,4 +1,5 @@
 Overview
+![Numberimage](https://github.com/user-attachments/assets/d0a37743-8d94-4bd4-87fc-d34018f4257f)
 
 This project demonstrates how to use YOLO for object detection and EasyOCR for text recognition to identify and extract license plates from a video. It leverages computer vision libraries such as OpenCV, EasyOCR, and cvzone for processing frames, detecting objects, and recognizing text.
 
